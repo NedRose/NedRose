@@ -24,7 +24,12 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Aiogram](https://img.shields.io/badge/Aiogram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
-### 🗄️ Базы данных и коллекции
+### 🗄️ Базы данных
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 📊 Базы данных и коллекции
 ![JDBC](https://img.shields.io/badge/JDBC-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Java Collections](https://img.shields.io/badge/Java_Collections-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
@@ -50,6 +55,7 @@
 - **Продвинутая Java разработка** — углубленное изучение фреймворков и лучших практик
 - **Архитектура микросервисов** — проектирование масштабируемых систем
 - **Оптимизация производительности** — повышение эффективности backend-приложений
+- **Работа с различными СУБД** — углубленное изучение PostgreSQL, MySQL, Redis
 
 ---
 
@@ -60,7 +66,9 @@
 - **Микросервисные архитектуры** с использованием Docker
 - **Backend системы** для бизнес-приложений и автоматизации процессов
 - **ORM приложения** с использованием Hibernate
-- **Работу с базами данных** через JDBC и JPA
+- **Работу с базами данных** через JDBC и JPA (PostgreSQL, MySQL)
+- **Кэширование данных** с использованием Redis
+- **Сложные SQL запросы** и оптимизацию баз данных
 
 ---
 
